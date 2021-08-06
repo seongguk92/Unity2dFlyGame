@@ -17,9 +17,9 @@ Unity 2D로 비행 게임 만들어보기
 - git lfs track "*.cubemap"
 
 ▶ git lfs 사용
-- git add .gitattributes #lfs 정보 스테이지에 추가
-- git commit -m "Add gitattributes" #커밋
-- git push origin master #원격 저장소에 푸시
+- git add .gitattributes 
+- git commit -m "Add gitattributes" 
+- git push origin master
 
 ▶ 마무리
 - git add .
